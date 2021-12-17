@@ -34,7 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+# publications = pd.read_csv("./archives/publications_20211218.tsv", sep="\t", header=0)
+publications = pd.read_excel("./archives/publications_20211218.xlsx")
 publications
 
 
@@ -102,7 +103,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("./_publications/" + md_filename, 'w') as f:
         f.write(md)
 
 
