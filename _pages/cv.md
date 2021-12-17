@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: academic/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,21 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng. (Hons) in Civil Engineering, The Hong Kong Polytechnic University, 2013
+* M.Sc. in Civil Engineering, National Chiao Tung University, 2014
+* Ph.D. in Civil Engineering, National Chiao Tung University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 2019 - current: Postdoctoral Researcher
+  - Disaster Prevention and Water Environment Research Centre (NYCU / NCTU)
+  - National Yang Ming Chiao Tung University / National Chiao Tung University
+  - Duties included: 
+    - Co-advising doctoral and masters student
+    - Handling project execution and management 
+    - Research discussion and publication composition
+    - PCB layout design, assembling, testing and deployment 
+    - IoT monitoring station maintenance
+    - Engineering geophysics exploration (surface and borehole) works 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- 2014 - 2019: Lab Student Leader
+  - Geo-Imaging and Geo-Nerve Research Group
+  - National Chiao Tung University
+  - Supervisor: Professor Chih-Ping Lin
+
+- 2012-2013: Design Project Group Leader
+  - CSE Design Project 
+  - The Hong Kong Polytechnic University (HKPU)
+
+- Summer 2012: Assistant Engineer
+  - Huang Hsiang Construction Corporation
+
+- 2011-2013: Student Helper
+  - International Affairs Office (IAO)
+  - The Hong Kong Polytechnic University (HKPU)
+
+- 2011,2013: Leader of PolyU GSC Student Ambassador
+  - International Affairs Office (IAO)
+  - The Hong Kong Polytechnic University (HKPU)
+
   
 Skills
 ======
