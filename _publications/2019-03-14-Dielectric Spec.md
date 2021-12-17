@@ -14,3 +14,5 @@ citation: 'Ngui, Y. J., Lin, C.-P., and Wu, T.-J. (2019). Dielectric Spectroscop
 Dielectric spectroscopy - TDR DRA method
 
 Recommended citation: Ngui, Y. J., Lin, C.-P., and Wu, T.-J. (2019). Dielectric Spectroscopy Using Dual Reflection Analysis of TDR Signals. <i>Sensors</i>, 19(6), 1299. https://doi.org/10/gfxg3v
+
+<br><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="flyercarol" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>

@@ -38,6 +38,8 @@ import pandas as pd
 publications = pd.read_excel("./archives/publications_20211218.xlsx")
 publications
 
+buy_coffee_link = '''<br><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="flyercarol" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+'''
 
 # ## Escape special characters
 # 
@@ -100,6 +102,8 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
         
     md += "\nRecommended citation: " + item.citation
+    
+    md += "\n\n" + buy_coffee_link
     
     md_filename = os.path.basename(md_filename)
        
