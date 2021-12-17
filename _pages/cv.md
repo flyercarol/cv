@@ -1,13 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: academic/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+---
 
 Education
 ======
@@ -51,12 +52,34 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Languages
+  -	English
+  -	Mandarin
+  -	Malay
+  -	Cantonese
+  -	Hakka
+- Coding
+  - MATLAB
+  - Python
+  - Node-Red
+  - C++ (Arduino)
+  - LabVIEW
+  - VSCode
+  - Powershell
+  - Git
+
+|Geotechnical / Geophysical Analysis
+|---|
+|AGI EarthImager, Comsol Multiphysics, SurfSeis, RGLDip, DIPS, Slope2000, PLATE, ETABS, IBM SPSS, Maple, Mathematica
+
+|CAD / GIS
+|---|
+|AutoCAD, Google Earth Pro, QGIS, Tecplot, Surfer, KiCAD, easyEDA, Grapher
+
+|IoT related
+|---|
+|Software-hardware integration, Raspberry Pi, Arduino, LoRa, NB-IoT, wireless sensor network, customized low powered data-logging device
+
 
 Publications
 ======
@@ -76,6 +99,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
