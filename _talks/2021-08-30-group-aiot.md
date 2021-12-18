@@ -1,7 +1,7 @@
 ---
 title: "A very short introduction to AIoT"
 collection: talks
-type: "Talks"
+type: "Talk"
 permalink: /talks/2021-08-30-group-aiot
 venue: "NYCU"
 date: 2021-08-30

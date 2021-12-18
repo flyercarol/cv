@@ -1,7 +1,7 @@
 ---
 title: "Smart field monitoring with AIoT"
 collection: talks
-type: "Talks"
+type: "Talk"
 permalink: /talks/2021-09-30-seminar-nycu-civil
 venue: "NYCU"
 date: 2021-09-30
