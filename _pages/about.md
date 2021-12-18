@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic pages  "
+title: "Jason"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Connecting geotechnical and geophysical towards meaningful interpretation.
+Connecting geotechnical and geophysical towards meaningful interpretation.
 
-Hi there, I am Jason from Malaysia, currently working as a postdoc in Taiwan.
+Hi there, I am Jason from Malaysia, currently working as a postdoctoral researcher in Taiwan.
 
-Currently looking for a tenure track position of assistant professor in Civil / Geotechnical Engineering.
+Open to work and actively seeking for a tenure track position of assistant professor in Civil / Geotechnical Engineering.
 
-Feel free to [drop me an email](yinjeh.ngui@gmail.com) for any collaboration or comments!
+Feel free to <a href='mailto:yinjeh.ngui@gmail.com'>drop me an email</a> for any collaboration or comments!
