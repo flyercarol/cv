@@ -26,6 +26,6 @@ location: "Hsinchu, Taiwan"
 - Prospects
 - Applications
 
-Remarks: Presented online through Zoom
+Remarks: Presented online through  <img src="/images/zoom-106x40.jpg">
 
 <a href='https://flyercarol.github.io/files/20210830-talk-aiot.pdf'>Download presentation here</a>

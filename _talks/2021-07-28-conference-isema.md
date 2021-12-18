@@ -14,7 +14,7 @@ location: "Kiel, Germany"
 
 - Application of phase velocity analysis (PVA) approach for high measurement precision and large measurement range of suspended sediment concentration measurement technique.
 
-Remarks: Presented online through Zoom for ISEMA 2021
+Remarks: Presented online through <img src="/images/zoom-106x40.jpg">
 
 Recommended citation: Lin, C.-P., Ngui, Y. J., Wu, I.-L., Chung, C.-C., and Lin, W.-T. (2021). High Precision and Range of Concentration Measurement for Sediment-Water Mixture based on Time Domain Reflectometry. 2021 13th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA), 1–5. https://doi.org/10/gmsx3t
 
