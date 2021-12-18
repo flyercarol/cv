@@ -28,7 +28,7 @@ location: "Taipei, Taiwan"
 - 即時坡地動態預警
 - 未來展望
 
-<a href='https://flyercarol.github.io/files/20211201-seminar-slope-aiot.pdf'>Download presentation here</a>
+<a href='https://flyercarol.github.io/files/talks_seminar/20211201-seminar-slope-aiot.pdf'>Download presentation here</a>
 
-<a href='https://flyercarol.github.io/files/20211201-seminar-slope-aiot-poster.pdf'>Download conference poster here</a>
+<a href='https://flyercarol.github.io/files/talks_seminar/20211201-seminar-slope-aiot-poster.pdf'>Download conference poster here</a>
 

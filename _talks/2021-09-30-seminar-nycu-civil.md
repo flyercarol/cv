@@ -31,4 +31,4 @@ location: "Hsinchu, Taiwan"
 
 Remarks: Presented online through  <img src="/images/google-meet-horizontal-124-40.png">
 
-<a href='https://flyercarol.github.io/files/20210930-seminar-nycu-civil-smart-field-monitoring-with-aiot.pdf'>Download presentation here</a>
+<a href='https://flyercarol.github.io/files/talks_seminar/20210930-seminar-nycu-civil-smart-field-monitoring-with-aiot.pdf'>Download presentation here</a>

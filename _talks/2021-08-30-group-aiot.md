@@ -28,4 +28,4 @@ location: "Hsinchu, Taiwan"
 
 Remarks: Presented online through  <img src="/images/zoom-106x40.jpg">
 
-<a href='https://flyercarol.github.io/files/20210830-talk-aiot.pdf'>Download presentation here</a>
+<a href='https://flyercarol.github.io/files/talks_seminar/20210830-talk-aiot.pdf'>Download presentation here</a>
