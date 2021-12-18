@@ -34,8 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-# publications = pd.read_csv("./archives/publications_20211218.tsv", sep="\t", header=0)
-publications = pd.read_excel("./archives/publications_20211218.xlsx")
+# publications = pd.read_csv("./archives/publications.tsv", sep="\t", header=0)
+publications = pd.read_excel("./archives/publications_jason.xlsx")
 publications
 
 buy_coffee_link = '''<br><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="flyercarol" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
