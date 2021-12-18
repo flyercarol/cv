@@ -8,7 +8,8 @@ date: 2017-03-22
 location: "Denver, Colorado, USA"
 ---
 
-[SAGEEP2017]("/../20170322-sageep.jpg")
+<img src="/files/talks_conference/20170322-sageep.jpg">
+
 
 **Time Domain Reflectometry Phase Velocity Analysis for Measuring Apparent Dielectric Spectrum of Soil**
 
