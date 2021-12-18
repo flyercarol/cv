@@ -8,14 +8,24 @@ date: 2021-08-30
 location: "Hsinchu, Taiwan"
 ---
 
-<img src="/files/talks_seminar/20210830-tutorial-AIoT_001.jpg">
-
+<img src="/files/talks_seminar/20210830-talk-aiot.jpg">
 
 **A very short introduction to AIoT**
+- AIoT = AI + IoT
+- Bridge from Internet of things (IoT) to Artificial Intelligence of Things (AIoT)
+- What is AIoT?
+- Why AIoT?
+- From IoT 
+  - Architecture
+  - Sensors
+  - Transmission 
+  - Presentation
+- To AIoT
+  - Server / Cloud side AIoT
+  - Edge AI + IoT
+- Prospects
+- Applications
 
+Remarks: Presented online through Zoom
 
-20210830 Group meeting - AIoT_s.pdf
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-<a href='https://flyercarol.github.io/files/talks_conference/Ngui et al. - 2017 - Time Domain Reflectometry Phase Velocity Analysis .pdf'>Download presentation here</a>
+<a href='https://flyercarol.github.io/files/20210830-talk-aiot.pdf'>Download presentation here</a>

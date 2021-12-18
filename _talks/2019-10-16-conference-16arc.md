@@ -12,7 +12,7 @@ location: "Taipei, Taiwan"
 
 **Complex dielectric spectroscopy of soil using multiple reflection analysis on TDR signal**
 
-First application of multiple reflection analysis (MRA) approach for time domain dielectric spectroscopy on soil
+- First application of multiple reflection analysis (MRA) approach for time domain dielectric spectroscopy on soil
 
 Recommended citation: Ngui, Y. J., and Lin, C.-P. (2019, October 16). Complex dielectric spectroscopy of soil using multiple reflection analysis on TDR signal. Proceedings of the 16th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering. The 16th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering (16ARC 2019), Taipei, Taiwan.
 

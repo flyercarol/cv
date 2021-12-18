@@ -12,10 +12,10 @@ location: "Lublin, Poland"
 
 **Robust Extraction of Frequency-Dependent Dielectric Properties from Time Domain Reflectometry**
 
-First review talk on all three proposed time-domain spectroscopy
-- PVA - Phase velocity analysis
-- DRA - Dual reflection analysis
-- MRA - Multiple reflection analysis
+- First review talk on all three proposed time-domain spectroscopy
+  - PVA - Phase velocity analysis
+  - DRA - Dual reflection analysis
+  - MRA - Multiple reflection analysis
 
 Recommended citation: Lin, C.-P., and Ngui, Y. J. (2018). Robust Extraction of Frequency-Dependent Dielectric Properties from Time Domain Reflectometry. 2018 12th International Conference on Electromagnetic Wave Interaction with Water and Moist Substances (ISEMA), 1–9. https://doi.org/10.1109/ISEMA.2018.8442320
 
