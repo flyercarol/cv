@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* BEng. (Hons) in Civil Engineering, The Hong Kong Polytechnic University, 2013
-* M.Sc. in Civil Engineering, National Chiao Tung University, 2014
 * Ph.D. in Civil Engineering, National Chiao Tung University, 2019
+* M.Sc. in Civil Engineering, National Chiao Tung University, 2014
+* BEng. (Hons) in Civil Engineering, The Hong Kong Polytechnic University, 2013
 
 Work experience
 ======
@@ -40,6 +40,7 @@ Work experience
 
 - Summer 2012: Assistant Engineer
   - Huang Hsiang Construction Corporation
+  - In
 
 - 2011-2013: Student Helper
   - International Affairs Office (IAO)
