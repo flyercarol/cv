@@ -13,7 +13,7 @@ Connecting geotechnical and geophysical data towards meaningful interpretation.
 Hi there, I am Jason, currently working as a postdoctoral researcher at the Disaster Prevention and Water Resources Center, National Yang Ming Chiao Tung University, Taiwan.
 
 I am ...
-- A full stack IoT researcher/developer with experience in Node-RED, nginx, MySQL, SQLite, Markdown, Python, MQTT, GitHub and eager to learn any to make life easier.
+- A full stack IoT researcher/developer in Node-RED, nginx, MySQL, SQLite, Markdown, Python, MQTT, GitHub and eager to learn any to make life easier.
 - Coding on Python, Matlab, Node-Red and Arduino C/C++.
 
 I have ...
