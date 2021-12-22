@@ -62,12 +62,19 @@ Skills
 - Coding
   - MATLAB
   - Python
-  - Node-Red
-  - C++ (Arduino)
+  - Arduino C++  
   - LabVIEW
+- Coding environment
   - VSCode
   - Powershell
-  - Git
+  - GitHub
+- Full stack experience
+  - Node-RED
+  - MQTT
+  - nginx
+  - MySQL
+  - SQLite
+  - Markdown
 
 |Geotechnical / Geophysical Analysis
 |---|
