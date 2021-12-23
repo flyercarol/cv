@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} [Download as pdf](../files/cv.pdf)
 ---
 
 Education
