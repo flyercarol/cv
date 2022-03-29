@@ -22,21 +22,14 @@ Education
 Work experience
 ======
 - 2019 - current: Postdoctoral Researcher
-  - Disaster Prevention and Water Environment Research Centre (NYCU / NCTU)
-  - National Yang Ming Chiao Tung University / National Chiao Tung University
-  - Co-advising doctoral and masters student
-  - Handling project execution and management 
-  - Research discussion and publication composition
-  - Virtual server deployment 
-  - Deploy and maintain IoT monitoring stations
-  - PCB layout design, assembling, testing and deployment   
-  - Conduct engineering geophysics exploration (surface and borehole) works 
-    - time-domain reflectometry (TDR)
-    - surface seismic 
-    - electrical resistivity tomography (ERT)
-    - borehole televiewer (acoustic and optical)
-    - borehole electric-logging (E-logging)
-    - borehole flowmeter
+  Disaster Prevention and Water Environment Research Centre (NYCU)
+  National Yang Ming Chiao Tung University 
+  - Lead over 30 near-surface geophysical surveys (surface seismic, ERT, TDR, borehole televiewer, and suspension P-S logging) in slope, dam and reservoir, LNG storage, nuclear power plant, airstrip, and contaminated site.
+  - Deploy 15 slope monitoring stations and 10 reservoir SSC monitoring stations, which are based on low-powered Raspberry Pi SBC, TDR device, and in-house IoT modules (e.g. remote relay, power monitoring…).
+  - Develop and optimize in-house automation software with Python, Kivy, and SQLite within the first 2 month.
+  - Accelerated 21 project schedules up to 20% average and reduced 50% instrument cost via in-house modules.
+  - Published 4 SCI-indexed, 4 EI-indexed and 6 conference papers over the past 3 years.
+  - Co-advised 2 doctoral and 8 masters students from Geo-Imaging and Geo-Nerve research group.
 
 - 2014 - 2019: Lab Student Leader
   - Geo-Imaging and Geo-Nerve Research Group, National Chiao Tung University
@@ -71,7 +64,27 @@ Work experience
   - Education fair promoter
   - Photographer
 
- 
+Projects
+======
+- **Integrated slope monitoring program	 [2016 – Present]**
+  - Design and supervision: 15 borehole installations using TDR cable and inclinometer casing
+  - Development, deployment, and optimization: Real-time displacement monitoring using TDR and IoT devices
+- **Micro-hydropower based renewable energy system performance assessment 	[2020 – Present]**
+  - Design and deployment: Real-time IoT logger for energy generation, water level, and flow velocity
+  - Supervision: Literature consolidation, open-channel hydraulic condition analysis
+- **Advanced time-domain reflectometry (TDR) dielectric spectroscopy	[2014 – Present]**
+  - Research and deployment: Suspended sediment concentration (SSC) monitoring for 16 reservoir stations and 2 offshore stations 
+  - Planning and development: Contaminated soils dielectric spectroscopy, soil moisture content and density estimation
+- **Multichannel analysis of surface waves (MASW) seismic survey	[2019 – Present]**
+  - Planning and execution: Risk assessment and dam safety inspection for Hushan Reservoir
+  - Analysis: Shear-wave velocity (layered Vs and Vs30) inversion, dam structure assessment
+- **Electrical resistivity tomography/imaging (ERT/ERI)	[2016 – Present]**
+  - Planning and execution: Site investigation in contaminated sites and slopes
+  - Analysis: Anomaly delineation, time-lapse inversion
+- **In-situ borehole geophysics projects	[2015 – Present]**
+  - Planning and execution: Geotechnical investigation using e-logging, suspension PS-logging, borehole optical and acoustic televiewer 
+
+
 Skills
 ======
 - Languages
