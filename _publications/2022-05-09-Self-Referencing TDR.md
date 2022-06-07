@@ -5,7 +5,7 @@ permalink: /publication/2022-05-09-Self-Referencing TDR
 excerpt: 'TDR Dielectric Spectroscopy - Self-Referencing wih RDA'
 date: 2022-05-09
 venue: 'IEEE Transactions on Instrumentation and Measurement'
-paperurl: 'https://flyercarol.github.io/files/Ngui and Lin - 2022 - Self-Referencing TDR Dielectric Spectroscopy Using.pdf'
+# paperurl: 'https://flyercarol.github.io/files/Ngui and Lin - 2022 - Self-Referencing TDR Dielectric Spectroscopy Using.pdf'
 citation: 'Ngui, Y. J., and Lin, C.-P. (2022). Self-Referencing TDR Dielectric Spectroscopy Using Reflection-Decoupled Analysis With a Mismatched Section. <i>IEEE Transactions on Instrumentation and Measurement</i>, 71, 1–15.'
 ---
 
