@@ -5,7 +5,7 @@ permalink: /publication/2019-03-14-Dielectric Spec
 excerpt: 'Dielectric spectroscopy - TDR DRA method'
 date: 2019-03-14
 venue: 'Sensors'
-paperurl: 'https://flyercarol.github.io/files/Ngui et al. - 2019 - Dielectric Spectroscopy Using Dual Reflection Anal.pdf'
+# paperurl: 'https://flyercarol.github.io/files/Ngui et al. - 2019 - Dielectric Spectroscopy Using Dual Reflection Anal.pdf'
 citation: 'Ngui, Y. J., Lin, C.-P., and Wu, T.-J. (2019). Dielectric Spectroscopy Using Dual Reflection Analysis of TDR Signals. <i>Sensors</i>, 19(6), 1299. https://doi.org/10/gfxg3v'
 ---
 
